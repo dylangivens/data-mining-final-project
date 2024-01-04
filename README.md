@@ -1,0 +1,3 @@
+This repo contains the final project I did for a class called 'Data Mining'. This class was the second of five classes I am taking through Ohio State University's Certificate of Practice in Data and Analytics
+program. It is worth noting that the file contained in this repo, for a reason unbeknownst to me, is a significantly abbreviated version of the final product. One of these days I will take the time to upload the
+whole thing. It is also worth noting that this was the first project I ever completed in Python. It was also my first experience using Jupyter Notebook. And it was the first file I added to my personal GitHub.
